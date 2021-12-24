@@ -1,6 +1,7 @@
 # BashScript
-This Script is for Dev Setup for Linux (Ubuntu 20.04). It automatic install a list of dev applications for Ubuntu by running the script as super user. It install the following by executing the script
-           Nodejs
+This Script is for Dev Setup for Linux (Ubuntu 20.04). It automatic install a list of dev applications for Ubuntu by running the script as super user. It install the following:-
+  
+                 Nodejs
 	         Git
 	         Velocity
 	         Visual Studio Code
